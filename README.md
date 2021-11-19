@@ -9,4 +9,4 @@ Am Evans, a ***Senior Native iOS Developer***. I focus on crafting clean user in
 - 👩🏿‍💻 I have been teaching kids how to code here [**clover.africa**](https://www.instagram.com/clover.africa/).
 - 🧘🏿‍♂️ I try to practice yoga twice a week. 
 
-Lets connect on Linkedin [codebender](https://www.linkedin.com/in/codebender/)
+Lets connect on [Linkedin](https://www.linkedin.com/in/codebender/)
