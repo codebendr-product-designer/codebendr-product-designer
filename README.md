@@ -1,4 +1,4 @@
-![Marc's github stats](https://github-readme-stats.vercel.app/api?username=codebendr-product-designer&show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=codebendr-product-designer&show_icons=true&theme=dark)
 
 Hello!
 
