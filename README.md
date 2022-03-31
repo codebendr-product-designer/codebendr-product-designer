@@ -1,3 +1,5 @@
+![Marc's github stats](https://github-readme-stats.vercel.app/api?username=codebendr-product-designer&show_icons=true&theme=dark)
+
 Hello!
 
 Am Evans, a ***Senior Native iOS Developer***. I focus on crafting clean user interfaces and solving user experience problems on the iOS platform. Am also passionate about demystifying complex components into simpler usage scenarios and also building reusable components that can be used by design and development teams.
