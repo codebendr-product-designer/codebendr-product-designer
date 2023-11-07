@@ -2,7 +2,7 @@
 
 Hello!
 
-Am Evans, a ***Senior Native iOS Developer***. I focus on crafting clean user interfaces and solving user experience problems on the iOS platform. Am also passionate about demystifying complex components into simpler usage scenarios and also building reusable components that can be used by design and development teams.
+I am Evans, a ***Senior Native iOS Developer***. I focus on crafting clean user interfaces and solving user experience problems on the iOS platform. Am also passionate about demystifying complex components into simpler usage scenarios and also building reusable components that can be used by design and development teams.
 
 - 🎨 I currently work with an amazing team at [***Plume Design***](https://www.plume.com)
 - 📚 Learning modern swift architecture from [**Pointfree**](https://www.pointfree.co/)
